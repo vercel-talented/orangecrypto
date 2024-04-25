@@ -1,0 +1,15 @@
+.social_icon:hover {
+    fill: rgb(210 52 3 / 1);
+}
+
+.social_icon_menu:hover {
+    fill: black;
+}
+
+.social_icon {
+    fill: white;
+}
+
+.social_icon_menu {
+    fill: white;
+}
